@@ -6,7 +6,7 @@ SNS Subscription Filter Demo
 
 ## To Deploy this CDKv2 Python Application
 
-If you need a general CDK App Walkthrough Resource: [tutorial](https://docs.aws.amazon.com/cdk/v2/guide/serverless_example.html)
+For a general CDK App Walkthrough Resource: [tutorial](https://docs.aws.amazon.com/cdk/v2/guide/serverless_example.html)
 
 ### Additional Steps:
 
