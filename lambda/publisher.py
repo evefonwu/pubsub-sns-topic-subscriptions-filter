@@ -2,7 +2,7 @@ import os
 import boto3
 
 '''
-This lambda fn publishes a message without message attributes.
+This lambda fn publishes a Hello message.
 '''
 
 sns = boto3.client('sns')
