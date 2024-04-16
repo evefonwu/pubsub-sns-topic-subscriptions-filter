@@ -1,8 +1,8 @@
-# EDA PubSub Messaging: SNS Topic Subscriptions Filter Demo
+# EDA Messaging: SNS Topic Subscriptions Filter Demo
 
 This is the CDK Python Application source code for the demo described in this post:
 
-SNS Subscriptions Filter Demo
+EDA Messaging: SNS Topic Subscriptions Filter Demo
 
 ## Steps
 
