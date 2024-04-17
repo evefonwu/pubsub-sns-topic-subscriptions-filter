@@ -2,7 +2,7 @@
 
 This is the CDK Python Application source code for the demo described in this post:
 
-EDA Messaging: SNS Topic Subscriptions Filter Demo
+[EDA Messaging: SNS Topic Subscriptions Filter Demo](https://dev.to/evefonwu/eda-messaging-sns-topic-subscriptions-filter-demo-5cf8)
 
 ## Steps
 
