@@ -12,10 +12,27 @@ For system requirements to deploy CDK applications, check out: [Tutorials](https
 
 ### Clone the repository
 
-### Activate virtual environment and install the dependencies
+cd into the project
+
+### Create a virtual environment with venv
+
+```sh
+python3 -m venv .venv
+```
+
+### Activate venv environment
 
 ```sh
 source .venv/bin/activate
+```
+
+### Install package dependencies
+
+This repo requires aws-cdk-lib 2.137.0. See requirements.txt for package dependencies.
+
+Install into the venv virtual environment for this project:
+
+```sh
 pip install -r requirements.txt
 ```
 
@@ -42,7 +59,7 @@ source .env
 cdk deploy
 ```
 
-`cdk deploy` provides a changeset, when confirmed, deploys the infrastructure and runtime code together to the default AWS account/region configured with the AWS CLI
+`cdk deploy` initiate deploying to the default AWS account/region configured with the AWS CLI
 
 ### Confirm subscriptions
 
