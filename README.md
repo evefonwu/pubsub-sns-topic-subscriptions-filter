@@ -1,8 +1,6 @@
 # SNS Topic Subscriptions Filter Demo
 
-This is the CDK Python Application source code for the demo described in this post:
-
-[EDA Messaging: SNS Topic Subscriptions Filter Demo](https://dev.to/evefonwu/eda-messaging-sns-topic-subscriptions-filter-demo-5cf8)
+Demo of an Amazon Simple Notification Service (SNS) topic with multiple email subscriptions and how to add subscription filtering in SNS.
 
 ## Steps
 
@@ -67,3 +65,7 @@ cdk deploy
 ### Confirm subscriptions
 
 Confirm the email subscriptions in order to receive the SNS Topic messages published by lambda function URL invocations.
+
+## Blog post and Resource links:
+
+[EDA Messaging: SNS Topic Subscriptions Filter Demo](https://dev.to/evefonwu/eda-messaging-sns-topic-subscriptions-filter-demo-5cf8)
